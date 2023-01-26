@@ -19,4 +19,7 @@ Other      | 1
 
 <br>
 
-- [![Github]
+## Support
+Development by Flarenn
+and
+Anonym developers
