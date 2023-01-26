@@ -1,4 +1,4 @@
-<h1 align="center">Developing tools </h1>
+<h1 align="center">Development tools </h1>
 
 ### [√] Description :
 
@@ -19,4 +19,4 @@ Other      | 1
 
 <br>
 
-##By Flarenn
+- [![Github]
